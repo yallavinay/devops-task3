@@ -1,8 +1,3 @@
-# Ready-to-Run Git Commands
-
-Copy and paste these commands in your terminal to complete the DevOps Git task.
-
-## 🚀 Complete Workflow Commands
 
 ### Step 1: Initialize Repository and Initial Commit
 
@@ -210,7 +205,7 @@ git config --global user.email "your.email@example.com"
 git remote -v
 
 # Update remote URL
-git remote set-url origin https://github.com/yourusername/devops-git-task.git
+git remote set-url origin https://github.com/yallavinay/task3.git
 ```
 
 ### If you need to start over:
@@ -224,5 +219,3 @@ git init
 ```
 
 ---
-
-**Note**: Replace `https://github.com/yourusername/devops-git-task.git` with your actual GitHub repository URL before running the commands.
