@@ -1,16 +1,6 @@
-# Git Workflow Documentation
 
-This document outlines the complete Git workflow for the DevOps Git Task project.
 
-## 🎯 Project Overview
-
-**Objective**: Demonstrate Git best practices and DevOps workflows
-**Tools**: Git, GitHub
-**Focus**: Version control, branching, collaboration
-
-## 📋 Complete Task Checklist
-
-### ✅ Required Deliverables
+###  Required Deliverables
 
 1. **Repository Setup**
    - [x] Initialize Git repository
@@ -275,33 +265,3 @@ git merge dev
 # Push updated branch
 git push origin feature/your-branch
 ```
-
-## 📈 Best Practices Summary
-
-1. **Always create feature branches from `dev`**
-2. **Use conventional commit messages**
-3. **Keep commits small and focused**
-4. **Write descriptive commit messages**
-5. **Review code before merging**
-6. **Use pull requests for all merges**
-7. **Tag releases with semantic versioning**
-8. **Keep `main` branch always deployable**
-9. **Delete merged feature branches**
-10. **Document all workflows**
-
-## 🎓 Learning Outcomes
-
-After completing this workflow, you will understand:
-
-- ✅ Git repository management
-- ✅ Branching strategies
-- ✅ Commit message conventions
-- ✅ Pull request workflows
-- ✅ Version control with tags
-- ✅ Team collaboration practices
-- ✅ Code review processes
-- ✅ Documentation standards
-
----
-
-**Next Steps**: Implement this workflow in your repository and create the required pull requests to demonstrate your understanding of Git best practices.
