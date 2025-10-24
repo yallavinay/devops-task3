@@ -1,18 +1,3 @@
-# DevOps Git Task - Version Control Best Practices
-
-This project demonstrates professional Git and GitHub workflows for DevOps practices.
-
-##  Objective
-Learn and demonstrate version control workflows using Git best practices including branching, committing, merging, pull requests, tags, and documentation.
-
-##  Project Structure
-```
-devops-git-task/
-├── README.md          # Project documentation
-├── .gitignore         # Git ignore rules
-├── login.md          # Sample feature file
-└── index.html        # Sample application file
-```
 
 ##  Branching Strategy
 
@@ -141,26 +126,3 @@ git push origin v1.0
 
 # List tags
 git tag -l
-```
-
-## 📋 Task Checklist
-
-- [x] Initialize Git repository
-- [x] Create comprehensive .gitignore
-- [x] Set up branching strategy (main, dev, feature)
-- [x] Create proper commit messages
-- [x] Add Git tags for versioning
-- [x] Document workflow in README
-- [x] Demonstrate pull request workflow
-
-## 🎓 Learning Outcomes
-
-After completing this task, you will understand:
-
-1. **Version Control**: How to use Git for tracking changes
-2. **Branching**: Creating and managing different branches
-3. **Collaboration**: Using pull requests for code review
-4. **Documentation**: Writing clear project documentation
-5. **Best Practices**: Following industry standards for Git workflows
-
-
